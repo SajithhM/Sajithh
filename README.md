@@ -2,7 +2,7 @@
 
 I'm a beginner programmer currently diving into **Python** and **Web development**. I'm here to learn, build cool stuff, and grow as a developer.
 
-## 🌱 I’m currently learning:
+## 🌱 I’m currently pursuing:
 - Bachelor of Engineering in Computer Science (Artificial Intelligence & Machine Learning)                                                                                                                                    
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
