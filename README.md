@@ -5,7 +5,7 @@ I'm a beginner programmer currently diving into **Python** and **Web development
 ## 🌱 I’m currently learning:
 - Bachelor of Engineering in Computer Science (Artificial Intelligence & Machine Learning)                                                                                                                                    
 ## 🌐 Socials:
- [![LinkedIn](![image](https://github.com/user-attachments/assets/e677012d-e2e5-4f65-9942-a963de0c78b6)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 )](https://linkedin.com/in/sajithx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajithhmaheshwaran@gmail.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/sajithhmaheshwaran/_profile/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajithx_) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/756386600702705676)
 
 # 💻 Tech Stack:
