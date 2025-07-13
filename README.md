@@ -57,7 +57,7 @@ I use tools like **Canva** and **Photoshop** to bring my creative ideas to life.
 ---
 
 ## 📜 Certifications
-- Infosys Springboard - *Introduction to Artificial Intelligence*
+- Infosys Springboard - *Introduction to Artificial Intelligence* 
 - Infosys Springboard - *Introduction to Git and GitHub*
 - Infosys Springboard – *Introduction to UI and UX Design*
 - Infosys Springboard – *UI and UX Prototyping with Figma*  
