@@ -39,6 +39,16 @@ I'm here to learn, build cool stuff, and grow as a developer.
 ---
 
 
+## 🎨 I'm Also a Graphic Designer
+
+Alongside coding and UI/UX, I enjoy designing aesthetic posters — especially those related to **cars** and **my favorite interests**.
+
+I use tools like **Canva** and **Photoshop** to bring my creative ideas to life.
+
+> 🎯 I design purely out of passion — mixing creativity with visual style.
+
+---
+
 ## 💼 Projects
 > *(Just getting started — more coming soon!)*
 
