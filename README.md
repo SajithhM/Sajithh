@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sajith!
 
 I'm a beginner programmer currently diving into **Python** and **Web Development**, with a growing interest in **UI/UX design**. 
-I'm here to learn, build cool stuff, and grow as a developer.  
+I'm here to learn, build cool stuff, and grow as a developer.
+
 📚 Currently learning: Python, Git, Figma, and Web Design Basics
 
 ---
