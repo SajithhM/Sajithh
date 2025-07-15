@@ -1,11 +1,8 @@
-<p align="center">
-  <h1>👋 Hi, I'm Sajith!</h1>
-  <p>I'm a beginner programmer currently diving into <strong>Python</strong> and <strong>Web Development</strong>,<br>
-  with a growing interest in <strong>UI/UX design</strong>.<br>
-  I'm here to learn, build cool stuff, and grow as a developer.</p>
-
-  <p>📚 <strong>Currently learning:</strong> Python, Git, Figma, and Web Design Basics</p>
-</p>
+<h1 align="center">Hi👋, I'm Sajith.M !</h1>
+<h3 align="center"> I'm a beginner programmer currently diving into <strong>Python</strong> and <strong>Web Development</strong>,<br>
+  with a growing interest in <strong>UI/UX design</strong> and <strong>Graphic Design</strong>.<br>
+  I'm here to learn, build cool stuff, and grow as a developer and designer.</p>
+ </h3>
 
 ---
 
