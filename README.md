@@ -9,8 +9,8 @@ I'm here to learn, build cool stuff, and grow as a developer.
 
 ## 🎓 Currently Pursuing:
 - **Bachelor of Engineering in Computer Science**  
-   Specialization: *Artificial Intelligence & Machine Learning*  
-📍 Freshman (1st Year) at Easwari Engineering College
+   Specialization: *Artificial Intelligence & Machine Learning*
+📍Freshman (1st Year) at Easwari Engineering College
 
 ---
 
