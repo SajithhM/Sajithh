@@ -65,21 +65,4 @@ I use tools like **Canva** and **Photoshop** to bring my creative ideas to life.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SajithhM&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=SajithhM&theme=gotham&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithhM&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SajithhM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## ✍️ Quote I Like:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 Thanks for stopping by! 😊 Feel free to explore and connect.
