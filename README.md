@@ -1,9 +1,11 @@
-                                          # 👋 Hi, I'm Sajith!
+<p align="center">
+  <h1>👋 Hi, I'm Sajith!</h1>
+  <p>I'm a beginner programmer currently diving into <strong>Python</strong> and <strong>Web Development</strong>,<br>
+  with a growing interest in <strong>UI/UX design</strong>.<br>
+  I'm here to learn, build cool stuff, and grow as a developer.</p>
 
-I'm a beginner programmer currently diving into **Python** and **Web Development**, with a growing interest in **UI/UX design**. 
-I'm here to learn, build cool stuff, and grow as a developer.
-
-📚 Currently learning: Python, Git, Figma, and Web Design Basics
+  <p>📚 <strong>Currently learning:</strong> Python, Git, Figma, and Web Design Basics</p>
+</p>
 
 ---
 
