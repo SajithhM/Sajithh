@@ -9,7 +9,7 @@ I'm here to learn, build cool stuff, and grow as a developer.
 
 ## 🎓 Currently Pursuing:
 - **Bachelor of Engineering in Computer Science**  
-  Specialization: *Artificial Intelligence & Machine Learning*  
+   Specialization: *Artificial Intelligence & Machine Learning*  
   📍 Freshman (1st Year)
 
 ---
@@ -17,9 +17,7 @@ I'm here to learn, build cool stuff, and grow as a developer.
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajithx) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajithhmaheshwaran@gmail.com) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/sajithhmaheshwaran/_profile/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajithx_) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/756386600702705676)
 
 ---
 
@@ -38,30 +36,10 @@ I'm here to learn, build cool stuff, and grow as a developer.
 
 ---
 
-
-## 🎨 I'm Also a Graphic Designer
-
-Alongside coding and UI/UX, I enjoy designing aesthetic posters — especially those related to **cars** and **my favorite interests**.
-
-I use tools like **Canva** and **Photoshop** to bring my creative ideas to life.
-
-> 🎯 I design purely out of passion — mixing creativity with visual style.
-
----
-
 ## 💼 Projects
 > *(Just getting started — more coming soon!)*
 
 - **UI/UX Login Page** – A modern login page designed in Figma. *(Coming Soon)*
-
----
-
-## 📜 Certifications
-- Infosys Springboard - *Introduction to Artificial Intelligence* 
-- Infosys Springboard - *Introduction to Git and GitHub*
-- Infosys Springboard – *Introduction to UI and UX Design*
-- Infosys Springboard – *UI and UX Prototyping with Figma*  
-*(More to be added soon)*
 
 ---
 
