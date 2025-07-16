@@ -33,11 +33,4 @@ I'm here to learn, build cool stuff, and grow as a developer.
 
 ---
 
-## 💼 Projects
-> *(Just getting started — more coming soon!)*
-
-- **UI/UX Login Page** – A modern login page designed in Figma. *(Coming Soon)*
-
----
-
 Thanks for stopping by! 😊 Feel free to explore and connect.
