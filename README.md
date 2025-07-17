@@ -33,4 +33,12 @@ I'm here to learn, build cool stuff, and grow as a developer.
 
 ---
 
+## 📜 Certifications:
+• Introduction to Git and Github - Infosys Springboard
+• Introduction to Artificial Intelligence - Infosys Springboard
+• AI For All: From Basics to GenAI Practice - Nvidia
+• Introduction to Machine Learning Concepts (Module) - Microsoft
+
+---
+
 Thanks for stopping by! 😊 Feel free to explore and connect.
